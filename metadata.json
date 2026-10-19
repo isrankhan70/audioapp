@@ -1,0 +1,6 @@
+{
+  "name": "SpliceLab Lossless Audio Merger",
+  "description": "Studio-grade lossless multi-track audio joiner and mastering workstation with sample-accurate splicing, crossfading, and instant 24-bit/32-bit WAV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
